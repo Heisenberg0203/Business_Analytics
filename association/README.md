@@ -1,4 +1,4 @@
-Market Basket Analysis
+#Market Basket Analysis
 Association rules using Apriori Algorithm
 
 	1.apriori.r is on random data
